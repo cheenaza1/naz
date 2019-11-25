@@ -1,0 +1,95 @@
+body{
+    background-color: white;
+    width: 1920;
+    height: 2484;
+}
+#Nav-bar{
+    background-color: #4c7be8f2;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: white;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: white;
+}
+.home{
+    padding-right: 20px;
+}
+.more{
+    padding-right: 20px;
+}
+.contact{
+    padding-right: 20px;
+}
+.about{
+    padding-right: 20px;
+}
+hr{
+    margin-top: 100px;
+    color: red;
+}
+.row{
+    text-align: center;
+}
+#community{
+    font-size: 45px;
+    border: 0.5px;
+    text-align: justify;
+    padding-bottom: 150px;
+    margin-top: 100px;
+    width: 1300px;
+    color: #4C7BE8F2;
+    text-align: center;
+}
+.text-community{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+.join{
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+}
+button{
+    background-color: #4c7be8f2;
+    border: 0px;
+    padding: 23px 68px;
+    color: white;
+}
+#ui{
+    margin: 50px 0px;
+}
+.col-md-4{
+    justify-content: center;
+}
+p{
+    font-size: 25px;
+}
+.graphic{
+    padding: 5px 0px;
+}
+.web{
+    padding: 5px 0px;
+}
+.UI{
+    padding: 5px 0px;
+}
+h3{
+    text-align: center;
+    padding: 25px 0px;
+}
+#mentor{
+    background-color: #4c7be8;
+    font-size: 25px;
+    text-align: justify;
+    padding: 70px;
+    font-family: sans-serif;
+}
+.apply{
+    background-color: white;
+    color: #4c7be8;
+    margin-top: 40px;
+}
